@@ -68,4 +68,4 @@ In the third task, the five recruiters reported that the company’s interface w
 
 1. Website open the tourist mode or simplify the registration process to facilitate users to browse quickly;
 
-2. Set up a comment area on the website to facilitate user communication and communication.
+2. Set up a comment area on the website to facilitate user communication.
