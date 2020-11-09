@@ -6,13 +6,13 @@ Boss Direct Recruitment is a free recruitment mobile app that focuses on Interne
 
 <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1604911215983&di=a42ac83795b3f6522069ff76f8cb2973&imgtype=0&src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F12523559722%2F641" />
 
-<h2>Persona</h2>
+<h1>Persona</h1>
 
 The target users of my website "JobME" are for recent graduates who have returned from studying abroad but cannot find a job. The target user age group is 18-25 years old, who are generally born in middle-to-high-income families, have relatively advanced education and have certain learning ability. Users have just returned home, because the epidemic is basically all online courses, and some even interrupted their studies and are at a fork in their lives. How to help the "good eyes and low hands" choose a satisfactory job? How to best pool graduate resources suitable for overseas backgrounds?
 
 The main purpose of the user is to find a job with a suitable salary, suitable for overseas background, strong tolerance, and flat enterprise management on this website. And the job should be a professional counterpart to help users practice what they have learned.
 
-<h3>Pain points</h3>
+<h1>Pain points</h1>
 
 1、Users' demand for short and fast browsing
 
@@ -29,17 +29,17 @@ Recruitment websites on the market generally lack customized personalized servic
 Most recruitment websites only establish communication bridges between job seekers and companies, ignoring the communication between companies and companies, job seekers and job seekers. To a certain extent, this setting is based on the consideration of avoiding black-box operations and reducing the risks of both parties, but there is no doubt about the ability of social marketing to promote user consumption. The establishment of this kind of community can also strengthen the communication between job seekers and enterprises.
 
 
-<h4>Needs and Objectives</h4>
+<h1>Needs and Objectives</h1>
 
 1、Increase effective and well-intentioned communication between users. You can add a comment area under each position interface, and open the private message function, as well as a community that can post dynamics.
 
 2、Users can find recent graduates with the same experience as themselves on the job search website through the community, and share their experiences
 
-<h5>Usability test plan dashboard Dashboard</h5>
+<h1>Usability test plan dashboard Dashboard</h1>
 
 <img src="https://github.com/chuqing-1996/chuqing-1996.github.io/blob/main/assignments/assignment7/usability%20test%20plan%20dashboard.png?raw=true" />
 
-<h6>Results</h6>
+<h1>Results</h1>
 
 In this survey, the sample, the respondent, is required to complete the following three tasks:
 1. Clarify your needs: position, salary, location;
@@ -64,7 +64,7 @@ In the second task, five investigators opened the BOSS Direct Employment officia
 
 In the third task, the five recruiters reported that the company’s interface was simple and smooth. The interface also contained basic company information, recruiting positions, salary requirements, etc., but they lacked interactive sections and could not compare with other users. For those with more detailed requirements like Sample 2, I hope to find the comment area on the corporate interface and see the intuitive feedback from other users.
 
-<h7>Suggestions</h7>
+<h1>Suggestions</h1>
 
 1. Website open the tourist mode or simplify the registration process to facilitate users to browse quickly;
 
