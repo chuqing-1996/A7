@@ -1,7 +1,5 @@
 # Problem Statement
 
-<h1>Competitor’s Website</h1>
-
 [BOSS直聘](https://www.zhipin.com/guangzhou/) 
 
 Boss Direct Recruitment is a free recruitment mobile app that focuses on Internet recruitment and job hunting, allowing workplace bosses to chat with job seekers online, and speed up interviews. Users can use chat on the APP to communicate one-on-one with business executives, faster To get an offer. BOSS direct employment is mainly to make profits through the business model of "businesses buying efficiency tools", and is currently actively exploring other directions such as paying for results to increase profits.
